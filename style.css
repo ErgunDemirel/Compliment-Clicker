@@ -42,7 +42,7 @@ p {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 40px;
 }
 
 #addBtn {
@@ -51,7 +51,7 @@ h1 {
 }
 
 #addBtn:hover {
-    background-color: #036b03;
+    background-color: #024502;
 }
 
 #subBtn {
@@ -60,7 +60,7 @@ h1 {
 }
 
 #subBtn:hover {
-    background-color: #bf0303;
+    background-color: #930303;
 }
 
 #resetBtn {
@@ -70,7 +70,7 @@ h1 {
 }
 
 #resetBtn:hover {
-    background-color: rgb(58, 58, 58);
+    background-color: rgb(83, 83, 83);
 }
 
 #comp {
